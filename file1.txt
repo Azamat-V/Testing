@@ -1,4 +1,4 @@
-Hello guys
+Hello guys_ Conflict_test
 I edited the file1.txt
 bla,bla,bla....
 I am
